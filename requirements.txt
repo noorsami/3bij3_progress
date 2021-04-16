@@ -55,7 +55,7 @@ httplib2==0.10.3
 idna==2.8
 ImageHash==3.7
 importlib-metadata==3.7.3
-inca==0.1
+git+https://github.com/uvacw/inca.git
 ipython==7.9.0
 ipython-genutils==0.2.0
 itsdangerous==1.1.0
@@ -80,7 +80,7 @@ murmurhash==1.0.2
 mysqlclient==1.4.5
 networkx==2.4
 newspaper3k==0.2.8
-nl-core-news-sm==2.3.0
+https://github.com/explosion/spacy-models/releases/download/nl_core_news_sm-2.3.0/nl_core_news_sm-2.3.0.tar.gz#egg=nl_core_news_sm
 nltk==3.2.4
 numpy==1.17.4
 oauth2client==4.1.2
